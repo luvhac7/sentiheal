@@ -5,8 +5,8 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  // Set base for GitHub Pages (repository name)
-  base: mode === 'development' ? '/' : '/sentiheal/',
+  // Netlify serves the app from the root path
+  base: '/',
   server: {
     host: "::",
     port: 8080,
