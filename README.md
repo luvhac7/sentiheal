@@ -1,73 +1,99 @@
-# Welcome to your Lovable project
+# 🌿 SentiHeal - AI-Driven Mental Wellness Platform for Schizophrenia Support  
+<img width="2608" height="1528" alt="Screenshot 2025-09-04 at 10 58 03 AM" src="https://github.com/user-attachments/assets/b53fb75c-70a5-4c14-a86f-9341829223c9" />
+<img width="2766" height="1460" alt="Screenshot 2025-09-04 at 10 58 26 AM" src="https://github.com/user-attachments/assets/443753b8-342b-4b42-9f0b-3e508cdcdb2c" />
+<img width="2140" height="1610" alt="Screenshot 2025-09-04 at 11 01 14 AM" 
+<img width="2236" height="1634" alt="Screenshot 2025-09-04 at 11 02 05 AM" src="https://github.com/user-attachments/assets/b7f55b5b-4faa-4964-88f5-c09ddf971941" />
+src="https://github.<img width="2222" height="1650" alt="Screenshot 2025-09-04 at 11 02 42 AM" src="https://github.com/user-attachments/assets/bb604c80-17be-406f-b3c4-829ac31144db" />
+com/user-attachments/assets/c083e652-de9d-4de0-a886-757e06c4e403" />
+<img width="2222" height="1650" alt="Screenshot 2025-09-04 at 11 02 42 AM" src="https://github.com/user-attachments/assets/467ee12a-13a6-4bb5-b97c-c8220bf3414b" />
+<img width="2222" height="1650" alt="Screenshot 2025-09-04 at 11 02 53 AM" src="https://github.com/user-attachments/assets/77a8aad1-1e98-4adf-91dc-25c6625b7ce8" />
+<img width="2142" height="1306" alt="Screenshot 2025-09-04 at 11 03 08 AM" src="https://github.com/user-attachments/assets/21a64ea9-ccd4-49a9-80bf-a01f314552fa" />
 
-## Project info
+## 📖 Overview  
+**SentiHeal** is a comprehensive **AI-powered mental wellness platform** built to support individuals living with **schizophrenia** and their families.  
+It provides **empathetic AI conversations, CBT-based tools, mood tracking, emergency support, and family collaboration features** — all in a stigma-free, accessible environment.  
 
-**URL**: https://lovable.dev/projects/47d5efe9-1024-4d12-8376-aeb46ac0b8aa
+---
 
-## How can I edit this code?
+## 🎯 Core Mission  
+> To bridge the gap in mental healthcare by offering **24/7, stigma-free support** that blends AI-driven insights with human empathy, ultimately improving quality of life for schizophrenia patients.  
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🚀 Key Features  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/47d5efe9-1024-4d12-8376-aeb46ac0b8aa) and start prompting.
+### 🤖 AI Conversational Companion  
+- Human-like empathetic chat interface  
+- Crisis detection & intervention  
+- Voice input accessibility  
+- Context-aware conversations  
 
-Changes made via Lovable will be committed automatically to this repo.
+### 📊 Mood & Symptom Tracking  
+- Daily mood, anxiety, and sleep logs  
+- Hallucination & delusion tracking  
+- Medication adherence monitoring  
+- Historical trend visualization  
 
-**Use your preferred IDE**
+### 🧠 Cognitive Behavioral Therapy (CBT) Tools  
+- AI-guided CBT exercises  
+- Thought reframing & coping strategies  
+- Personalized recommendations  
+- Progress tracking  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 🚨 Emergency Support System  
+- Crisis assessment & escalation  
+- Integration with **988 hotline** & Crisis Text Line  
+- Local mental health resource finder  
+- Safety plan creation  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 👨‍👩‍👧 Family Connect Platform  
+- Secure family communication channels  
+- Controlled information sharing with consent  
+- Caregiver education resources  
+- Progress updates for family members  
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🛡️ Safety & Privacy  
+- Crisis escalation protocols  
+- End-to-end data encryption  
+- Consent-based data sharing  
+- Professional alerts & emergency integration  
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🎨 Design Philosophy  
+- Calming, therapeutic color palette  
+- Intuitive & accessible interface  
+- Mobile-responsive with dark/light mode  
+- Inclusive, ARIA-compliant design  
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 💻 Tech Stack  
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+| Layer         | Technology |
+|---------------|------------|
+| **Frontend**  | React + TypeScript + Tailwind CSS |
+| **UI**        | Shadcn/ui component library |
+| **State**     | React Hooks + Context API |
+| **Routing**   | React Router |
+| **Accessibility** | ARIA compliance, screen reader support |
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🏆 Innovation Highlights  
+- **Preventive Care** – Early warning system for symptom relapse  
+- **Personalized AI** – Context-aware, adapts to individual triggers  
+- **Integrated Support** – AI + human crisis resources  
+- **Family Empowerment** – Transparent, consent-based collaboration  
+- **Evidence-Based** – Grounded in CBT & therapeutic practices  
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 📂 Project Setup  
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/47d5efe9-1024-4d12-8376-aeb46ac0b8aa) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+### 1️⃣ Clone the repo  
+```bash
+git clone https://github.com/your-username/sentiheal.git
+cd sentiheal
